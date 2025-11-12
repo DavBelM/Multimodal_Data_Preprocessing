@@ -1,0 +1,28 @@
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+
+# Image Processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+
+# Deep Learning (optional for embeddings)
+tensorflow>=2.13.0
+# torch>=2.0.0
+# torchvision>=0.15.0
+
+# Model Tools
+xgboost>=2.0.0
+joblib>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
